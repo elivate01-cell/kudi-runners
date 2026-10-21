@@ -1,0 +1,23 @@
+{
+  "name": "Kudi Runners",
+  "slug": "kudi-runners",
+  "concept": "Delivery & errand running service",
+  "category": "services-local",
+  "subcategory": "courier-delivery",
+  "description": "High-contrast courier site: route ticker, delivery class cards with ETAs, coverage map made of CSS blocks and a rider recruitment panel.",
+  "design_family": "speed-highcontrast",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "route ticker marquee",
+    "delivery class cards with ETA chips",
+    "CSS block coverage map",
+    "rider recruitment panel",
+    "proof stats band",
+    "night dispatch strip"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
